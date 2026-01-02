@@ -19,6 +19,21 @@ Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
 
 <span id='all_catelogue'/>
 
+## 🚀 NEW: Complete Google Colab Setup Guide
+
+**For detailed, step-by-step instructions to run AnomalyGPT in Google Colab, see:**
+- 📘 **[Complete Setup Guide](./COLAB_SETUP_GUIDE.md)** - Comprehensive documentation
+- 📓 **[Colab Notebook](./colab_setup.ipynb)** - Interactive setup notebook  
+- 📋 **[Quick Reference](./QUICK_REFERENCE.md)** - Essential commands and info
+
+The guide includes:
+- ✅ Complete environment setup for Google Colab
+- ✅ Checkpoint download instructions
+- ✅ MVTec-AD dataset preparation
+- ✅ Training pipeline explanation
+- ✅ Inference and evaluation procedures
+- ✅ Troubleshooting for common issues
+
 ## Catalogue:
 
 * <a href='#introduction'>1. Introduction</a>
